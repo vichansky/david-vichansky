@@ -13,7 +13,7 @@ library( ggplot2 )
 library( wesanderson )
 
 # read data
-setwd( "C:/Users/david/OneDrive/Documents/Utrecht University/Mathematics for Industry/Question 4/Seoul" )
+setwd( "" )
 
 source( "functions.r" )
 
