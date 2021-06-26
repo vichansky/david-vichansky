@@ -1,1 +1,1 @@
-# vichansky
+# Personal repository
