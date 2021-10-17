@@ -1,7 +1,5 @@
-## Forthcoming project (release August 2021).
+## About the project
 
-We explore the paper 'Loops and Self-Reference in the Consturction of Dictionaryies' (https://journals.aps.org/prx/abstract/10.1103/PhysRevX.2.031018) to analyse how random language really is.
+This project was used to explore the paper 'Loops and Self-Reference in the Consturction of Dictionaryies' (https://journals.aps.org/prx/abstract/10.1103/PhysRevX.2.031018) in order to analyse how random language really is. Topological Data Analysis is used on a network graph to understand its structure, followed by MCMC double edge-swap rewiring and smaller loop detection.
 
-Topological Data Analysis is used on the network graph to obtain structure.
-
-This project was done as part of the Applied Data Science profile offered by Utrecht University, NL.
+This project was done as part of the Applied Data Science profile offered by Utrecht University, NL (supervisor: Ivan Kryven).
