@@ -18,7 +18,29 @@ This project was done as part of the Applied Data Science profile offered by Utr
   ```sh
   pip install matplotlib==2.2.3
   ```
+* gudhi
+  ```sh
+  pip install gudhi
+  ```
   
-  Using other version of these packages will yield error in the extraction and rendering of a network node, edge during the construction and drawing of a graph.
+  Using other versions will not render graph construction due to node, edge attributes.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+## Usage
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+## Contact
+
+David Vichansky - davidvikh@yahoo.co.uk
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
