@@ -6,4 +6,19 @@ This project was done as part of the Applied Data Science profile offered by Utr
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+
+
+## Prerequisites
+
+* networkx
+  ```sh
+  pip install networkx==2.6.2
+  ```
+* matplotlib
+  ```sh
+  pip install matplotlib==2.2.3
+  ```
+  
+  Using other version of these packages will yield error in the extraction and rendering of a network node, edge during the construction and drawing of a graph.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
