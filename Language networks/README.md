@@ -39,7 +39,7 @@ This project was done as part of the Applied Data Science profile offered by Utr
 
 ## Contact
 
-David Vichansky - davidvikh@yahoo.co.uk
+David Vikhansky - davidvikh@yahoo.co.uk
 
 
 
