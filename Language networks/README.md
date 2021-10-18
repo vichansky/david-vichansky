@@ -36,7 +36,7 @@ In python:
 
 Notebook to [build][build-graph] a graph from a dictionary.
 
-  [build-graph]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/graph-persistence.ipynb
+  [build-graph]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/dictionary-graph.ipynb
 
 <!-- ![Dictionary_graph](images/dictionary-graph.png) -->
 <img src="images/dictionary-graph.png" alt="Logo" width="600">
