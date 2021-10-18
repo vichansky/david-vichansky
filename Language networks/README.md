@@ -48,7 +48,7 @@ information | philippine | semiconductor
 
 ### 2) Perform TDA and assess persistence on language network.
 
-![Persistence_diagram](images/persistence-diagram.png)
+<img src = “images/persistence-diagram.png” width = _ height =_>
 
 
 ### 3) Rewire graph using MCMC principles and simulated annealing techniques for optimisation of network in terms of SCC size.
