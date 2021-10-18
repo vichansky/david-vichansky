@@ -34,7 +34,7 @@ In python:
 
 1) Build a language network graph from a dictionary and extract its giant strongly connected component (SCC).
 
-![Dictionary_graph](/images/dictionary-graph.png)
+![Dictionary_graph](images/dictionary-graph.png)
 
 Example of other SCC includes:
 
@@ -48,12 +48,12 @@ information | philippine | semiconductor
 
 2) Perform TDA and assess persistence on language network.
 
-![Persistence_diagram](/images/persistence-diagram.png)
+![Persistence_diagram](images/persistence-diagram.png)
 
 
 3) Rewire graph using MCMC principles and simulated annealing techniques for optimisation of network in terms of SCC size.
 
-![Language_rewiring](/images/language-rewiring.png)
+![Language_rewiring](images/language-rewiring.png)
 
 
 
