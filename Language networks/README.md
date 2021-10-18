@@ -34,28 +34,36 @@ In python:
 
 ### 1) Build a language network graph from a dictionary and extract its giant strongly connected component (SCC).
 
-![Dictionary_graph](images/dictionary-graph.png)
-<img src = “images/dictionary-graph.png” width = 300>
+Notebook to [build][build-graph] a graph from a dictionary.
+
+  [build-graph]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/graph-persistence.ipynb
+
+<!-- ![Dictionary_graph](images/dictionary-graph.png) -->
+<img src="images/dictionary-graph.png" alt="Logo" width="600">
 
 Example of other SCC includes:
 
-SCC 1 | SCC 2 | SCC 3
------------- | -------------
-communication | philippines | germanium
-message | tagalong | silicon
-information | philippine | semiconductor
- | luzon | argyrodite
+| SCC 1 | SCC 2 | SCC 3 |
+| :------------: | :-------------: | :-------------: |
+| communication | philippines | germanium |
+| message | tagalong | silicon |
+| information | philippine | semiconductor |
+|  | luzon | argyrodite |
 
 
 ### 2) Perform TDA and assess persistence on language network.
 
+Notebook on how we [applied][tda] TDA to network in using the **gudhi** python package.
+
+[tda]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/graph-persistence.ipynb
+
 ![Persistence_diagram](images/persistence-diagram.png)
-<img src = “images/persistence-diagram.png” width = 300>
 
 
 ### 3) Rewire graph using MCMC principles and simulated annealing techniques for optimisation of network in terms of SCC size.
 
-![Language_rewiring](images/language-rewiring.png)
+<!-- ![Language_rewiring](images/language-rewiring.png) -->
+<img src="images/language-rewiring.png" alt="Logo" width="600">
 
 
 
