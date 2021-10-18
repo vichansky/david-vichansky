@@ -53,7 +53,7 @@ Example of other SCC includes:
 
 ### 2) Perform TDA and assess persistence on language network.
 
-Notebook on how we [applied][tda] TDA to network in using the **gudhi** python package.
+Notebook on how to [apply][tda] TDA to network in using the **gudhi** python package.
 
 [tda]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/graph-persistence.ipynb
 
