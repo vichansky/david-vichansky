@@ -62,6 +62,10 @@ Notebook on how to [apply][tda] TDA to network in using the **gudhi** python pac
 
 ### 3) Rewire graph using MCMC principles and simulated annealing techniques for optimisation of network in terms of SCC size.
 
+Notebook for performing [MCMC double edge-swap rewiring][mcmc-rewiring].
+
+[mcmc-rewiring]:    https://github.com/vichansky/david-vichansky/blob/master/Language%20networks/optimisation-by-graph-rewiring.ipynb
+
 <!-- ![Language_rewiring](images/language-rewiring.png) -->
 <img src="images/language-rewiring.png" alt="Logo" width="600">
 
