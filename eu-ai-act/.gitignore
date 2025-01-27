@@ -1,0 +1,16 @@
+# To ignore during commit
+# Configurations and logins
+config.py
+
+# Python cache files
+__pycache__/
+
+# General cache directories
+.cache/
+*.cache
+
+# Other types of files
+*.csv
+*.iml
+*.xml
+*.
